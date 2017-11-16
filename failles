@@ -1,0 +1,2 @@
+- Sign in with get request (have password in url)
+- page=member --> No escape character in searchbar
